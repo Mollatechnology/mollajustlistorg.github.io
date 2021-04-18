@@ -1,0 +1,19 @@
+{
+   "name": "MollaToken",
+   "logoURI": "https://coin.top/production/logo/TPP2sA7dPGrFMiXvVR63nwLw7vR7uaDofL.png",
+   "timestamp": 1610339529000,
+   "tokens": [
+       {
+           "chainId": 1,
+           "address": "TZFLbP3quRsheDSnCF6tg86FD32AqPY8U2",
+           "name": "Molla",
+           "symbol": "Molla",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/TPP2sA7dPGrFMiXvVR63nwLw7vR7uaDofL.png"
+       },
+   ],
+   "version":{
+       "major": 1,
+       "minor": 0,
+       "patch": 0
+   }
