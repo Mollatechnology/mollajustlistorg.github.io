@@ -2,7 +2,7 @@
    "name": "MollaToken",
    "logoURI": "https://coin.top/production/logo/TPP2sA7dPGrFMiXvVR63nwLw7vR7uaDofL.png",
    "timestamp": 1610339529000,
-   "tokens": [
+   "tokens":[
        {
            "chainId": 1,
            "address": "TZFLbP3quRsheDSnCF6tg86FD32AqPY8U2",
